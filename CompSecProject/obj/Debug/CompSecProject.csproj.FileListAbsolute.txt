@@ -1,0 +1,10 @@
+D:\Homework\CPTS427\Project\CompSecProject\bin\Debug\CompSecProject.exe.config
+D:\Homework\CPTS427\Project\CompSecProject\bin\Debug\CompSecProject.exe
+D:\Homework\CPTS427\Project\CompSecProject\bin\Debug\CompSecProject.pdb
+D:\Homework\CPTS427\Project\CompSecProject\obj\Debug\CompSecProject.Properties.Resources.resources
+D:\Homework\CPTS427\Project\CompSecProject\obj\Debug\CompSecProject.csproj.GenerateResource.cache
+D:\Homework\CPTS427\Project\CompSecProject\obj\Debug\CompSecProject.csproj.CoreCompileInputs.cache
+D:\Homework\CPTS427\Project\CompSecProject\obj\Debug\CompSecProject.exe
+D:\Homework\CPTS427\Project\CompSecProject\obj\Debug\CompSecProject.pdb
+D:\Homework\CPTS427\Project\CompSecProject\obj\Debug\CompSecProject.csproj.AssemblyReference.cache
+D:\Homework\CPTS427\Project\CompSecProject\obj\Debug\CompSecProject.PWordStoreForm.resources
